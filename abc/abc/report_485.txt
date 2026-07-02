@@ -1,0 +1,7 @@
+Name: maham
+Session: 2025
+Field: SE
+Section: C
+GPA: 2.85
+Status: Pass
+Performance: Average/Good
